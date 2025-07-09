@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.003656mm"
+   height="38.665543mm"
+   viewBox="0 0 22.003656 38.665543"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="trena_rascunho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="4"
+     inkscape:cx="-24"
+     inkscape:cy="81.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.594,-53.086411)">
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.594,57.954121 h 22"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 51.726291,58.086412 V 53.086411"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 73.461709,58.086412 V 53.086411"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 62.594,58.086412 V 53.086411"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.660063,53.161482 c 0,0 5.482466,4.824607 10.933865,4.824607 5.451398,0 10.933866,-4.824607 10.933866,-4.824607"
+       id="path5"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.660063,69.995684 0.941813,0.753845 2.480845,1.658458 1.656029,0.885768 1.846953,0.772691 1.973263,0.546538 1.013807,0.153124 1.021155,0.05418 1.021155,-0.05418 1.013807,-0.153124 1.973263,-0.546538 1.846952,-0.772691 1.65603,-0.885768 2.480845,-1.658458 0.941814,-0.753845"
+       id="path14"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;stroke-width:1;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 51.7227,86.751953 -0.125045,0.156189 0.945649,0.755563 2.489165,1.663412 1.664653,0.890277 1.858082,0.77704 1.985079,0.548613 1.025756,0.154237 1.031616,0.05467 1.031616,-0.05467 1.025755,-0.154237 1.98508,-0.548613 1.858081,-0.77704 1.664654,-0.890277 2.489165,-1.663412 0.945649,-0.755563 -0.125045,-0.156189 -0.937833,0.749706 -2.475489,1.653651 -1.647068,0.880514 -1.836591,0.769231 -1.963587,0.542756 -1.002309,0.150332 -1.012078,0.05467 -1.012078,-0.05467 -1.002309,-0.150332 -1.961634,-0.542756 -1.838544,-0.769231 -1.647069,-0.880514 -2.475488,-1.653651 z"
+       id="path19"
+       inkscape:export-filename="trena.svg"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+  </g>
+</svg>

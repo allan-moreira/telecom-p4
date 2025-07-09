@@ -1,0 +1,4 @@
+#!/bin/bash
+exec docker run \
+    --net=host -e DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix:ro -v ~/.Xauthority:/root/.Xauthority:ro --device /dev/dri --device /dev/kfd \
+    -it -v ./:/src -w /src --rm ghcr.io/thotypous/docker-openems:main "$@"

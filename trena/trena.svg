@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21.999998mm"
+   height="5mm"
+   viewBox="0 0 21.999998 5.0000001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="trena_rascunho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="4"
+     inkscape:cx="-24"
+     inkscape:cy="81.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="2.4208066e-19"
+       y="0"
+       width="21.999998"
+       height="5"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.597655,-86.751954)">
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;stroke-width:1;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 51.7227,86.751953 -0.125045,0.156189 0.945649,0.755563 2.489165,1.663412 1.664653,0.890277 1.858082,0.77704 1.985079,0.548613 1.025756,0.154237 1.031616,0.05467 1.031616,-0.05467 1.025755,-0.154237 1.98508,-0.548613 1.858081,-0.77704 1.664654,-0.890277 2.489165,-1.663412 0.945649,-0.755563 -0.125045,-0.156189 -0.937833,0.749706 -2.475489,1.653651 -1.647068,0.880514 -1.836591,0.769231 -1.963587,0.542756 -1.002309,0.150332 -1.012078,0.05467 -1.012078,-0.05467 -1.002309,-0.150332 -1.961634,-0.542756 -1.838544,-0.769231 -1.647069,-0.880514 -2.475488,-1.653651 z"
+       id="path19"
+       inkscape:export-filename="trena.svg"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+  </g>
+</svg>
