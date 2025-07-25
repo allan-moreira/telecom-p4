@@ -15,13 +15,13 @@ from openEMS import openEMS
 from openEMS.physical_constants import C0
 
 # enable NF2FF recording, computation and plotting
-enable_nf2ff = False
+enable_nf2ff = True
 
 # not only render, but also fire up matplotlib to show the plots
-enable_show_plots = False
+enable_show_plots = True
 
 # fire up AppCSXCAD for viewing the model before running it
-enable_appcsxcad = False
+enable_appcsxcad = True
 
 # all units are in mm
 unit = 1e-3

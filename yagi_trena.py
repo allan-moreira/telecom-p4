@@ -15,13 +15,13 @@ from openEMS import openEMS
 from openEMS.physical_constants import C0
 
 # enable NF2FF recording, computation and plotting
-enable_nf2ff = False
+enable_nf2ff = True
 
 # not only render, but also fire up matplotlib to show the plots
-enable_show_plots = False
+enable_show_plots = True
 
 # fire up AppCSXCAD for viewing the model before running it
-enable_appcsxcad = False
+enable_appcsxcad = True
 
 # all units are in mm
 unit = 1e-3
@@ -29,14 +29,14 @@ unit = 1e-3
 # =============================
 # **! Yagi antenna settings !**
 # =============================
-director_length = 892
-director_dist = 114
+director_length = 864
+director_dist = 263
 director_side_boom_additional_len = 50
 
 driven_length = 902
 
-reflector_length = 1051
-reflector_dist = 203
+reflector_length = 951
+reflector_dist = 311
 reflector_side_boom_additional_len = 200
 
 # https://www.meiacolher.com/2018/10/medidas-dos-canos-de-pvc-saiba-bitola.html
@@ -44,10 +44,10 @@ boom_ext_radius = 25
 boom_shell_width = 1.7
 
 # https://smarc.org.au/wp-content/uploads/2021/11/Hairpin-Matching-VK2DEQ.pdf
-hairpin_enable = False
+hairpin_enable = True
 # https://i0.wp.com/cref.if.ufrgs.br/wp-content/uploads/2018/06/fig4_bitolafio.png
 hairpin_wire_diameter = 2.26
-hairpin_length = 62
+hairpin_length = 58
 hairpin_D = 10
 # =============================
 
