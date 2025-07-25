@@ -68,6 +68,7 @@ reflector_length = 951
 reflector_dist = 311
 ```
 ![sexo](fig/q1.jpeg)
+
 *Resultado da compilação do yagi_trena.py*
 
 * Qual a banda da sua antena? Como ela se compara com a banda de uma antena dipolo ([dipole.py](dipole.py) ou [dipole_trena.py](dipole_trena.py))? O que seria necessário para que a banda da sua antena fosse mais estreita em torno de 145.825 MHz?
@@ -80,6 +81,8 @@ A comparação direta dos dados comprova que a antena Yagi-Uda é uma antena de 
 
 ![](fig/q2.jpeg)
 
+*Gráfico de reflexão yagi_trena.py*
+
 ### Impedância
 
 * Você consegue casar a impedância da sua antena com a impedância do transceptor de rádio (50 ohms, puramente reais), mantendo-a em ressonância na frequência desejada? A abordagem sugerida é ativar `hairpin_enable` e usar um [hairpin](https://smarc.org.au/wp-content/uploads/2021/11/Hairpin-Matching-VK2DEQ.pdf) para fazer o casamento.
@@ -87,6 +90,8 @@ A comparação direta dos dados comprova que a antena Yagi-Uda é uma antena de 
 Sim. Após a sintonia inicial, a antena apresentou uma impedância de 15.8 Ω. Para corrigir essa incompatibilidade, parâmetros de hairpin foram alterados experimentalmente para obter melhores resultados. Com os parâmetros `hairpin_enable = True` e `hairpin_length = 58`, foi possível transformar a baixa impedância da antena para 54.1 Ω, mantendo a ressonância em 145.8 MHz.
 
 ![](fig/q3.jpeg)
+
+*Grafíco de reflexão yagi_trena.py*
 
 ### Direcionalidade
 
@@ -97,11 +102,13 @@ Sim. Após a sintonia inicial, a antena apresentou uma impedância de 15.8 Ω. P
 Sim. A comprovação é feita pela análise comparativa dos diagramas de irradiação da antena Yagi-Uda e de uma antena Dipolo.
 Primeiro, o diagrama de irradiação da antena Dipolo de referência exibe um padrão clássico e simétrico, com dois lobos de irradiação de mesma intensidade. Isso caracteriza uma antena bidirecional, que irradia energia igualmente para frente e para trás.
 ![](fig/q4.jpeg)
+
 *Diagrama de irradiação da antena Dipolo de referência. Note o padrão simétrico com dois lobos de igual intensidade.*
 
 Em contraste, o diagrama da antena Yagi-Uda é marcadamente assimétrico. Ele apresenta um lobo principal dominante, que concentra a maior parte da energia em uma única direção, e um lobo traseiro significativamente menor. Essa capacidade de focar a energia irradiada em um feixe principal é a definição de uma antena direcional.
 
 ![](fig/q5.jpeg)
+
 *Diagrama de irradiação da antena Yagi-Uda final. O lobo principal único comprova sua natureza direcional.*
 
 * Você consegue comprovar que a sua Yagi-Uda irradia mais na direção do elemento *director* que na direção do elemento *reflector*, ou seja, que a sua antena não está invertida?
